@@ -7,6 +7,15 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     
+//    // uninitialize
+//    int age;
+//    // c-like initialization
+//    int age = 21;
+//    // constructor initialization
+//    int age (21);
+//    // c++11 list initialization sybtax
+//    int age {21};
+    
 //    int width {0};
 //    int length {0};
     
