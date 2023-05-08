@@ -44,7 +44,7 @@ int main(int argc, const char * argv[]) {
     //MARK: overflow example
     short value1 {30000};
     short value2 {1000};
-     multi {value1 * value2};
+    multi {value1 * value2};
     
     cout << "The multiply of " << value1 << " and " << value2 << " is " << multi << endl;
     return 0;
